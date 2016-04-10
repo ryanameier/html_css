@@ -1,0 +1,21 @@
+body {
+  width: 960px;
+  margin: 0 auto;
+  background: ffffff;
+  border: 8px solid #5569db;
+}
+header { 
+  text-align: center;
+ }
+ header h1 {
+  color: #5569db
+ }
+ section h2 {
+  background: #5569db;
+  color: #ffffff;
+    text-indent: 10px;
+ }
+ .img-circle {
+  border-radius: 50%;
+  width: 220px;
+ }
